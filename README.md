@@ -1,2 +1,2 @@
 # gcn_protein
-Graph COnvolutional Neural Networks for Hydrogen Bond Analysis in Protein systems
+Graph Convolutional Neural Networks for Hydrogen Bond Analysis in Protein Systems
